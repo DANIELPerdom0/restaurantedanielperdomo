@@ -1,0 +1,24 @@
+Landing Page – Restaurante Colombiano el cafetero
+
+Landing page inspirada en un restaurante colombiano, creada como proyecto personal durante mi proceso de aprendizaje en desarrollo web Frontend.
+
+La idea nace mientras vivía en México y extrañaba elementos culturales de Colombia, lo que me motivó a diseñar una página que transmitiera identidad, cercanía y buena experiencia de usuario.
+
+ 🚀 Tecnologías utilizadas
+- HTML
+- CSS
+- JavaScript
+
+✨ Características
+
+- Diseño moderno enfocado en experiencia de usuario (UX)
+- Interfaz visual clara y atractiva
+- Totalmente responsive (mobile, tablet y desktop)
+- Estructura semántica y buenas prácticas de maquetación
+
+## 🎯 Objetivo del proyecto
+Practicar el diseño visual de una landing page real, mejorar el manejo de layouts responsive y entender cómo presentar información de manera clara y atractiva para el usuario final.
+
+🔗 Enlaces
+- Demo: https://elcafeterorestaurantedanielperdomo.netlify.app/
+- Código: *(GitHub repo)*
